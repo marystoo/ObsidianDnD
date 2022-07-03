@@ -1,0 +1,111 @@
+{
+  "main": {
+    "id": "ea6232d3420f8ff5",
+    "type": "split",
+    "children": [
+      {
+        "id": "42f6d4b10e1e3286",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "The Adventure Begins/NPCs/Oakhurst/Felosial Neridove.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "064f37ad116e0a5c",
+    "type": "split",
+    "children": [
+      {
+        "id": "a87100a09f5dad46",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e4e312ff6e2aaa9f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "39f59f6680bb01b5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d7b112026513df4d",
+    "type": "split",
+    "children": [
+      {
+        "id": "e7d12afd1e945b46",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "96b834f2dafb697e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "The Adventure Begins/NPCs/Oakhurst/Felosial Neridove.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "19a1bad930b98281",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "42f6d4b10e1e3286",
+  "lastOpenFiles": [
+    "The Adventure Begins/NPCs/Oakhurst/Felosial Neridove.md",
+    "The Adventure Begins/NPCs/Oakhurst/guards.md",
+    "The Adventure Begins/NPCs/Oakhurst/Kerowyn Hucrele.md",
+    "The Adventure Begins/NPCs/Oakhurst/Dem Corkie Nackle.md",
+    "The Adventure Begins/Quests/Rumors.md",
+    "Belak.md",
+    "The Adventure Begins/Locations/Oakhurst/Ol' Boar Inn.md",
+    "The Adventure Begins/NPCs/Oakhurst/Noah Hawick.md",
+    "The Adventure Begins/NPCs/Oakhurst/scouts.md",
+    "The Adventure Begins/Locations/Oakhurst/Jail.md"
+  ]
+}

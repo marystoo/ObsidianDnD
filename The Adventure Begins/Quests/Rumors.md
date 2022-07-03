@@ -1,0 +1,6 @@
+1. No one knows for sure what the Sunless Citadel once was, but legends hint that it served as the retreat of an ancient dragon cult.
+2. The Old Road skirts the Ashen Plain, a lifeless area. (A character who succeeds on a DC 15 Intelligence (history) check knows that the desolation is attributed to the long-ago rampage of a dragon named Ashardalon.) A few locals know this fact too.
+3. Cattle and sheep herders don't graze their stock too far afield these days. They're frightened by stories of new monsters that maraud by night. From time to time, cattle, sheep and people who have gone out alone at night have been found dead the next day, bearing dozens of needle-like wounds. No one has seen the creatures that cause this mayhem, nor do they leave a discernible trail.
+4. The missing advenuturers include a fighter (Talgen), a wizard (Sharwyn), a paladin (Sir Braford), and a ranger (Karakas). Sir Braford had a sword called Shatterspike.
+5. Sometimes the goblins offer a different apple at midwinter. THis apples is corpse-white and poisonous, even to the touch. No samples of either apple are to be had.
+6. Garon, the barkeep, remembers when the last time anyone aside from Talgen and Sharwyn, asked questions about the Sunless Citadel. About 13 years ago, a grim human name [[Belak]] stopped by, and he had a large pet frog.

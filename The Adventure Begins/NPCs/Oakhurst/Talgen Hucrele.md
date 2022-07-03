@@ -1,0 +1,1 @@
+A Fighter. Lighter skinned than his mother but has the same eyes. He is 6' 2", 220lbs - muscular. Age 30 years old.

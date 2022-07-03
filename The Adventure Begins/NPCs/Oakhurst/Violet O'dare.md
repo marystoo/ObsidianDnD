@@ -1,0 +1,3 @@
+A woman - human. Mid-30's with a friendly, welcoming air about her, she wears non-descript commoner clothes - tan. Her hair is short and golden. 
+
+Personailty: Friendly and helpful. Likes her work as it takes her out of the house. She and her husband never had kids. Her husband, Nate, died about 5 years ago. She has not remarried although she and the mayor are a little sweet on each other but keep it professional.
